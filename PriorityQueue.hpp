@@ -11,8 +11,8 @@ Description: Priority Queueing Header file for Monte Carlo Simulation for shorte
 **/ 
 
 
-#ifndef _PRIORITY_QUEUE_H
-#define _PRIORITY_QUEUE_H
+#ifndef _PRIORITY_QUEUE_H_
+#define _PRIORITY_QUEUE_H_
 
 #include <vector>
 #include <algorithm>
@@ -90,4 +90,4 @@ private:
   };
 
 };
-#endif // _PRIORITY_QUEUE_H
+#endif // _PRIORITY_QUEUE_H_
